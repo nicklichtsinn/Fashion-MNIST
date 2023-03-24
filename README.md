@@ -6,6 +6,11 @@ The Fashion-MNIST dataset allows the use of machine learning algorithms to aid i
 
 As the use of convolutional neural networks for image classification has improved this dataset has been used to test different models and to teach people to evaluate model performance for these visual-based classifications.
 
+I wil aim to answer the following questions using a random forest, boosted classifier and keras models:
+  - What is the accuracy of each method?
+  - What are the trade-offs of each approach?
+  - What is the commputing performance of each method?
+
 ## Analysis:
 
 First I read in the dataframe fashion-MNIST data with a csv for the machine learning models such as random forest, and boosted forest. For the Keras CNN model I imported the dataset directly from Keras. 
